@@ -1,5 +1,6 @@
-# project-learn-ansible
+# joomla-site
 # We use
-# - containers
+# - LXC containers
 # - ansible
 # - git
+# - Jenkins...
